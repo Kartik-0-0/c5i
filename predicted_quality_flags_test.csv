@@ -1,0 +1,18 @@
+Unique ID,Start Date,End Date,"Q1. What is your current age? 
+(Age)","Q2. What is your gender? 
+(Gender)","Q3. Which of the following best describes the area or community in which you live? 
+(Urban/Rural)","Q4.  Please indicate the answer that includes your entire household income in (previous year) before taxes. 
+(Income)","Q6 Which of the following types of alcoholic beverages have you consumed in the past 4 weeks?
+(Alcohol Category)",Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,"Q7. Which of the following beer types of have you consumed in the past 4 weeks? 
+(Beer Category )",Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,"Q9. How relevant would you say the shown product is to you based on what you saw and read?
+(Concept Relevance)","Q10. How appealing or unappealing is the shown product  to you?
+(Concept Appeal)","Q11. How different do you think the shown product is from other beers currently available for purchase?
+(Concept Differentiation)","Q12. Thinking about the shown product, which option describes how believable or unbelievable you feel the description and statements made about it are?
+(Concept Beleivability)","Q13. How does the price fit with what you’d expect the shown to cost?
+(Concept_Price)","Q14. Which statement below best describes how likely you would be to buy shown product if it were available at your local stores?
+(Concept_Purchase Intent)","Q15. If the shwon product was available to you, how often would you expect yourself to drink at least one of these products?
+(Concept_Drinking Frequency)",Q16A. What is the most important thing you LIKE about the shown concept}?     This can include anything you would want kept for sure or aspects that might drive you to buy or try it…       Please type a detailed response in the space below,"Q16B. What is the most important thing you DISLIKE about the shown concept}?    This can include general concerns, annoyances, or any aspects of the product that need fixed for this to be more appealing to you...     Please type a detailed response in the space below.","Q17. We would like to know what effect this new product might have on the other beverages you buy. If it were available, would the shown product…? 
+(Concept_Replacement Product)","Q18_1 What specific product that you are currently using would the shown product replace?
+ Please type in ONE specific brand or product per space provided.","Q18_2 What specific product that you are currently using would the shown concept replace?
+ Please type in ONE specific brand or product per space provided.","Q18_3 What specific product that you are currently using would the shown concept replace?
+ Please type in ONE specific brand or product per space provided.",Q6_Alcohol_Categories_Consumed_in_Past_4_Weeks_LIST,Q7_Beer_Categories_Consumed_in_Past_4_Weeks_LIST,Predicted_Flag,Score,Reason

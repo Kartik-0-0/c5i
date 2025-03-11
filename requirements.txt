@@ -1,0 +1,7 @@
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+fuzzywuzzy
+python-Levenshtein
